@@ -26,6 +26,8 @@ Ce projet est réalise par :
  
  vous trouverez dans ce lian le fichier D'installation de Simulateur:
  
+  https://drive.google.com/file/d/1gIfHvMSnEHuyiyYC-TiYkziLZjTnK7YH/view?usp=sharing
+  
  requirements:
  - Windows comme système d'exploitation
- https://drive.google.com/file/d/1gIfHvMSnEHuyiyYC-TiYkziLZjTnK7YH/view?usp=sharing
+
