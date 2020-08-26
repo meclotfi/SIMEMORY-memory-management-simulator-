@@ -5,4 +5,6 @@ SiMemory est une application qui a pour but la visualisation de la cohabitation 
  	Cet outil a été confié aux étudiants de deuxième année préparatoire de l'école national supérieure d'informatique en Algérie , sous le cadre du module projet pluridisciplinaire.		
 	
 Il est muni d'une interface simple qui offre une simulation interactive en temps réel et dispose également des animations pour expliquer le fonctionnement complexe des algorithmes.
-![alt tag](https://cloud.githubusercontent.com/assets/3968618/9588666/d029268e-5029-11e5-8a0c-41ecd04207f4.png)
+![alt tag](https://drive.google.com/file/d/1Xsdjcv6Y--TjyUe3RvXBuXj2xnnhFeU-/view?usp=sharing)
+![alt tag](https://drive.google.com/file/d/1Xsdjcv6Y--TjyUe3RvXBuXj2xnnhFeU-/view?usp=sharing)
+![alt tag](https://drive.google.com/file/d/1Xsdjcv6Y--TjyUe3RvXBuXj2xnnhFeU-/view?usp=sharing)
