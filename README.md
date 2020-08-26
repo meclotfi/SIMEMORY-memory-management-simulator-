@@ -23,3 +23,9 @@ Ce projet est réalise par :
 
 
 ![alt tag](https://user-images.githubusercontent.com/40919923/91321598-b4b44a80-e7b6-11ea-9aad-e54f25186856.PNG)
+ 
+ vous trouverez dans ce lian le fichier D'installation de Simulateur:
+ 
+ requirements:
+ - Windows comme système d'exploitation
+ https://drive.google.com/file/d/1gIfHvMSnEHuyiyYC-TiYkziLZjTnK7YH/view?usp=sharing
